@@ -1,22 +1,22 @@
 {
-  "name": "sfelectronsampleapp",
-  "version": "0.5.0",
-  "description": "This is a sample app using salesforce API.",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:silverskyvicto/sfelectronsample.git"
-  },
-  "author": "yebihara",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/silverskyvicto/sfelectronsample/issues"
-  },
-  "homepage": "https://github.com/silverskyvicto/sfelectronsample#readme",
-  "dependencies": {
-    "express": "^4.13.3"
-  }
+	"name": "sfelectronsampleapp",
+	"version": "0.5.0",
+	"description": "This is a sample app using salesforce API.",
+	"homepage": "https://github.com/silverskyvicto/sfelectronsample#readme",
+	"bugs": {
+		"url": "https://github.com/silverskyvicto/sfelectronsample/issues"
+	},
+	"license": "ISC",
+	"author": "yebihara",
+	"main": "main.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:silverskyvicto/sfelectronsample.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"express": "^4.13.3"
+	}
 }
